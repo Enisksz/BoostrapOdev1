@@ -1,0 +1,12 @@
+body{
+    background-color: #E9ECEF;
+}
+.h2,.h3,.list,.footer{
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+}
+.footer{
+    margin-top: 50px;
+}
